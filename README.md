@@ -1,1 +1,16 @@
-This is a base node js project template which anyone can use as it has been prepared by keeping some of most important code principles and project management recommendations
+This is a base airplane book project for starting this file create a dotenv file having port 3000
+and download express,http-status-codes,winston,dotenv and after then intialize the src file using sequlize create command.
+
+     '''
+
+        sequelize db:create
+
+     '''
+
+After then migrate the changes
+
+    '''
+        sequelize db:migrate
+    '''
+
+Then you are good to go.keep coding
